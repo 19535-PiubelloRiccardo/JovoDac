@@ -1,0 +1,49 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Users/19535/Documents/NetBeansProjects/Main/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/19535/Documents/NetBeansProjects/Main/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Main 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Main 1.0-SNAPSHOT API'
+com.mycompany.main
+'C:/Users/19535/Documents/NetBeansProjects/Main/src/main/java/com/mycompany/main/Main.java'
+'C:/Users/19535/Documents/NetBeansProjects/Main/src/main/java/com/mycompany/main/Medico.java'
+'C:/Users/19535/Documents/NetBeansProjects/Main/src/main/java/com/mycompany/main/Paziente.java'
+C:\Users\19535\Documents\NetBeansProjects\Main\src\main\java = 1675847362890
+C:\Users\19535\Documents\NetBeansProjects\Main\target\site\apidocs\allclasses-index.html = 1676457342542
+C:\Users\19535\Documents\NetBeansProjects\Main\target\site\apidocs\allpackages-index.html = 1676457342546
+C:\Users\19535\Documents\NetBeansProjects\Main\target\site\apidocs\copy.svg = 1676457342600
+C:\Users\19535\Documents\NetBeansProjects\Main\target\site\apidocs\element-list = 1676457342475
+C:\Users\19535\Documents\NetBeansProjects\Main\target\site\apidocs\help-doc.html = 1676457342585
+C:\Users\19535\Documents\NetBeansProjects\Main\target\site\apidocs\index-all.html = 1676457342573
+C:\Users\19535\Documents\NetBeansProjects\Main\target\site\apidocs\index.html = 1676457342579
+C:\Users\19535\Documents\NetBeansProjects\Main\target\site\apidocs\jquery-ui.overrides.css = 1676457342613
+C:\Users\19535\Documents\NetBeansProjects\Main\target\site\apidocs\member-search-index.js = 1676457342559
+C:\Users\19535\Documents\NetBeansProjects\Main\target\site\apidocs\module-search-index.js = 1676457342550
+C:\Users\19535\Documents\NetBeansProjects\Main\target\site\apidocs\overview-tree.html = 1676457342526
+C:\Users\19535\Documents\NetBeansProjects\Main\target\site\apidocs\package-search-index.js = 1676457342554
+C:\Users\19535\Documents\NetBeansProjects\Main\target\site\apidocs\script.js = 1676457342599
+C:\Users\19535\Documents\NetBeansProjects\Main\target\site\apidocs\search-page.js = 1676457342605
+C:\Users\19535\Documents\NetBeansProjects\Main\target\site\apidocs\search.html = 1676457342576
+C:\Users\19535\Documents\NetBeansProjects\Main\target\site\apidocs\search.js = 1676457342603
+C:\Users\19535\Documents\NetBeansProjects\Main\target\site\apidocs\stylesheet.css = 1676457342595
+C:\Users\19535\Documents\NetBeansProjects\Main\target\site\apidocs\tag-search-index.js = 1676457342560
+C:\Users\19535\Documents\NetBeansProjects\Main\target\site\apidocs\type-search-index.js = 1676457342556
